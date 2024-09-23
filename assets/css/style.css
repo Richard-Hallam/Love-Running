@@ -22,6 +22,10 @@ header{
     background-color: aqua;
 }
 
+h1{
+        
+}
+
 main{
     background-color: blue;
     flex: 1 0 auto;
