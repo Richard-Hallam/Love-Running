@@ -5,12 +5,22 @@
     box-sizing: border-box;
 }
 
+/*General styles*/
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*Generic projec styles*/
+    color:#3a3a3a;
+}
+
 header{
     background-color: aqua;
 }
 
 main{
     background-color: blue;
+    flex: 1 0 auto;
 }
 
 footer{
